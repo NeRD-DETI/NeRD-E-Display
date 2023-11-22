@@ -10,4 +10,4 @@ Run this to install dependencies
 `python -m pip install -r requirements.txt`
 
 
-Run the script.
+Run the **display2.py** script.
